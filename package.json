@@ -57,7 +57,10 @@
     "mocha": "^2.0.1",
     "nock": "~0.27.1",
     "saucelabs": "~0.1.1",
-    "should": "^3.3.2"
+    "should": "^3.3.2",
+    "selenium-standalone": "2.41.x",
+    "http-server": "*",
+    "jasmine-node": "*"      
   },
   "tags": [
     "web",
